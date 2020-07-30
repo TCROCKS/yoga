@@ -18,9 +18,7 @@ h1:nth-child(2){
 }
 
 body{
-        background-image: url("images\10.JPG");
-  	background-size: cover;
-  	background-position: center;
+        background: blue;
 }
 
 .top{
