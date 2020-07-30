@@ -18,7 +18,7 @@ h1:nth-child(2){
 }
 
 body{
-	background: url("C:/Users/asus/Desktop/Coursera CSS3/new web/images/10.jpg") no-repeat center center fixed; ;
+	background: url("images/10.jpg") no-repeat center center fixed; ;
 	-webkit-background-size: cover;
  	 -moz-background-size: cover;
   	-o-background-size: cover;
