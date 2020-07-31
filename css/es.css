@@ -18,7 +18,94 @@ h1:nth-child(2){
 }
 
 body{
-	background: url("images/10.jpg") no-repeat center center fixed; 
+	background: url("C:/Users/asus/Desktop/323123.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+  	-o-background-size: cover;
+ 	 background-size: cover;
+}
+
+.top{
+	padding-left: 6%;
+
+}
+
+p a{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+	background-color: rgb(255,255,255);
+	border: 5px solid black;
+	border-radius: 9px;
+	margin-left: 28%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	opacity: 0.6;
+}
+
+p a:hover{
+	background: #bd9900;
+	opacity: 1;
+}
+
+
+
+section section{
+	float: left;
+	padding-left: 2%;
+	padding-right: 2%
+}
+
+.middle{
+	padding-left: 6%;
+
+	
+}
+
+.bottom{
+	padding-left: 6%;
+
+}
+
+footer{
+	float: left;
+	background-color: rgba(255,255,255,0.5);
+	color: yellow;
+	text-align: center;
+	width: 85%;
+	font-size: 30px;
+	margin-left: 7.5%;
+}
+
+img{
+	width: 70%;
+	border: 5px solid black;
+	border-radius: 250px;
+	margin-left: 10%;
+	margin-top: 30%;
+}header{
+	background-color: rgba(255,255,255,0.5);
+	color: #9009ce;
+	text-align: center;
+	width: 85%;
+	margin-left: 7.5%;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+h1:nth-child(1){
+	font-size: 30px;
+	padding-top: 3%;
+}
+
+h1:nth-child(2){
+	font-size: 80px;
+	padding-bottom: 3%;
+}
+
+body{
+	background: url("images/323123.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
  	 -moz-background-size: cover;
   	-o-background-size: cover;
